@@ -1,12 +1,12 @@
 # Command line tool for Blue Button
 
-# Install
+## Install
 
 ```
 npm install -g blue-button-cli
 ```
 
-# Usage
+## Usage
 
 ```
   Usage: blue-button [options] [command] <file>
@@ -23,7 +23,7 @@ npm install -g blue-button-cli
     -V, --version  output the version number
 ```
 
-# Development
+## Development
 
 To install it from local repo
 
