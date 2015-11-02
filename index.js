@@ -6,7 +6,7 @@ var fs = require('fs');
 var bb = require('blue-button');
 
 program
-    .version('1.3.0')
+    .version('1.8.0')
     .usage('[options] [command] <file>')
 
 program
