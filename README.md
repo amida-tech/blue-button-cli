@@ -1,8 +1,12 @@
-# Command line tool for Blue Button
+# Blue Button CLI
+
+Command line tool for [Blue Button](https://github.com/amida-tech/blue-button)
+
+[![NPM](https://nodei.co/npm/@amida-tech/blue-button-cli.png)](https://nodei.co/npm/@amida-tech/blue-button-cli/)
 
 ## Install
 
-```
+```sh
 npm install -g blue-button-cli
 ```
 
@@ -27,12 +31,12 @@ npm install -g blue-button-cli
 
 To install it from local repo
 
-```
+```sh
 npm link
 ```
 
 To uninstall it
 
-```
-npm r blue-button-cli -g
+```sh
+npm r -g blue-button-cli
 ```

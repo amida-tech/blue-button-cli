@@ -1,31 +1,31 @@
 {
-    "name": "blue-button-cli",
-    "version": "1.8.0",
-    "description": "Command line tool for Blue Button",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/amida-tech/blue-button-cli.git"
-    },
-    "keywords": [
-        "cli",
-        "bluebutton"
-    ],
-    "author": "Dmitry Kachaev <dmitry.kachaev@gmail.com> (http://github.com/kachok)",
-    "license": "Apache-2.0",
-    "bugs": {
-        "url": "https://github.com/amida-tech/blue-button-cli/issues"
-    },
-    "homepage": "https://github.com/amida-tech/blue-button-cli",
-    "dependencies": {
-        "blue-button": "~1.8.0-beta",
-        "commander": "^2.6.0"
-    },
-    "preferGlobal": "true",
-    "bin": {
-        "blue-button": "index.js"
-    }
+  "name": "@amida-tech/blue-button-cli",
+  "version": "1.8.1",
+  "description": "Command line tool for Blue Button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amida-tech/blue-button-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "blue-button",
+    "bluebutton"
+  ],
+  "author": "Dmitry Kachaev <dmitry.kachaev@gmail.com> (http://github.com/kachok)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/amida-tech/blue-button-cli/issues"
+  },
+  "homepage": "https://github.com/amida-tech/blue-button-cli",
+  "dependencies": {
+    "@amida-tech/blue-button": "^1.10.4",
+    "commander": "^9.2.0"
+  },
+  "bin": {
+    "blue-button": "index.js"
+  }
 }
