@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/amida-tech/blue-button-cli",
   "dependencies": {
-    "@amida-tech/blue-button": "^1.10.4",
+    "@amida-tech/blue-button": "^1.10.6",
     "commander": "^9.2.0"
   },
   "bin": {
