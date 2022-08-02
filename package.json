@@ -1,6 +1,6 @@
 {
   "name": "@amida-tech/blue-button-cli",
-  "version": "1.8.1",
+  "version": "1.8.2",
   "description": "Command line tool for Blue Button",
   "main": "index.js",
   "scripts": {
@@ -22,8 +22,8 @@
   },
   "homepage": "https://github.com/amida-tech/blue-button-cli",
   "dependencies": {
-    "@amida-tech/blue-button": "^1.10.4",
-    "commander": "^9.2.0"
+    "@amida-tech/blue-button": "^1.10.8",
+    "commander": "^9.4.0"
   },
   "bin": {
     "blue-button": "index.js"
